@@ -39,7 +39,7 @@
 		border-radius: 5px;
 		cursor: pointer;
 	  transition: 1s all;
-		/*box-shadow: 0 9px 10px rgba(6,6,7,.3);*/
+		/*box-shadow: 0 9px 10px rgba(6,6,7,.3); QUITADO DE MOMENTO*/ 
 	}
 	.cont {
 		position: absolute;
