@@ -1,0 +1,33 @@
+<html>
+<body>
+  <div>Users:</div>
+  <ul>
+    <li>Steve Rogers</li>
+    <li>Peter Parker</li>
+  </ul>
+</body>
+</html>
+
+<!--¿El nodo <div> del DOM?-->
+<script>
+    document.body.firstElementChild
+
+    //Primero
+    document.body.children[0];
+    //Segundo
+    document.body.childNodes[1];
+</script>
+
+<!--¿El nodo <ul> del DOM?-->
+
+<script>
+    document.body.lastElementChild
+    document.body.children[1]
+</script>
+
+<!--El segundo <li> (con Peter Parker)?-->
+ 
+<script>
+    // Después de obtener su último hijo
+    document.body.lastElementChild.lastElementChild          
+</script>
