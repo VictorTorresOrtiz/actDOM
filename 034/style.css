@@ -47,7 +47,7 @@
 		margin-top: 190px;
 	}
 	.tapa {
-	  width: 12000px;/* 	change if the size is >     12000  :) */
+	  width: 12000px;   
 		transition: .9s all;
 	}
 	.item img {
@@ -58,4 +58,3 @@
 		margin-top: -5px;
 	}
 
-    
