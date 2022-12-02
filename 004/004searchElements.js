@@ -3,7 +3,7 @@
 //Tabla con id="age-table
 let table = document.getElementById('age-table')
 
-// Todos los elementos `label` dentro de esa tabla
+// Todos los elementos label dentro de esa tabla
 table.getElementsByTagName('label')
 
 //El primer td en la tabla con Age
