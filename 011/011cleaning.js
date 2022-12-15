@@ -1,5 +1,5 @@
 "use strict";
 
 function clear(elem) {
-    elem.remove();
+    elem.remove(); //función .remove elimina todo
 }    
