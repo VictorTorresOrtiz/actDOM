@@ -1,8 +1,11 @@
+//Para los estilos de margenes etc
 let x = 0;
 let p = -10;
 let i = 1;
-let doom = document.getElementsByClassName('item');
-let confr = (doom.length - 3)*(-350);
+
+
+let dom = document.getElementsByClassName('item');
+let confr = (dom.length - 3)*(-350);
 let confl = 0;
 //MOver a derecha
 document.getElementById("l").addEventListener("click", function(){
